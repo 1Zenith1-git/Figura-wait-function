@@ -1,5 +1,5 @@
 # Figura wait function
-(Figura)[https://modrinth.com/mod/figura]
+[Figura](https://modrinth.com/mod/figura)
 
 Installation:
 
