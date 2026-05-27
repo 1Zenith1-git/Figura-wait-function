@@ -3,7 +3,7 @@
 
 Installation:
 
-    Copy the wait function code to the top of your script.
+   Copy the wait function code to the top of your script.
   
 Usage:
 
