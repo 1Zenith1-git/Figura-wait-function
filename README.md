@@ -1,4 +1,4 @@
-# Figura wait function
+# Figura Wait Function
 [Figura](https://modrinth.com/mod/figura)
 
 Installation:
